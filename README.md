@@ -1,4 +1,4 @@
-<h1>Hi, this is Sina! this is my report of the audit which was done a few months ago.  <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, this is Sina! this is my assessment report of the audit
 
 <h2>👨‍💻 Foot Locker & Champs Sports Risk Assessment Reports:</h2>
 
